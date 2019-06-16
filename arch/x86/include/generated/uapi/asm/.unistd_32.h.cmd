@@ -1,0 +1,1 @@
+cmd_arch/x86/syscalls/../include/generated/uapi/asm/unistd_32.h := /bin/bash '/media/code/5.1OSC/P70-A_L_OSC/kernel-3.10/arch/x86/syscalls/syscallhdr.sh' '/media/code/5.1OSC/P70-A_L_OSC/kernel-3.10/arch/x86/syscalls/syscall_32.tbl' 'arch/x86/syscalls/../include/generated/uapi/asm/unistd_32.h' 'i386' '' ''

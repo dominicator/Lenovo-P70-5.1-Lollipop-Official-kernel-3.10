@@ -1,0 +1,1 @@
+cmd_arch/x86/syscalls/../include/generated/asm/syscalls_32.h := /bin/bash '/media/code/5.1OSC/P70-A_L_OSC/kernel-3.10/arch/x86/syscalls/syscalltbl.sh' /media/code/5.1OSC/P70-A_L_OSC/kernel-3.10/arch/x86/syscalls/syscall_32.tbl arch/x86/syscalls/../include/generated/asm/syscalls_32.h
